@@ -15,9 +15,9 @@ One other work-around is to use jupyter notebooks and use the markdown mode in c
 Basic stuff seems to work perfectly, like centered equations
 
 
-$$
-(1-\frac{Max_{t}^{u} - \sum\limits _{v\in SP_{i,t}^{u}} UW(v, t))}{Max_{t}^{u}}) 
-$$
+
+$(1-\frac{Max_{t}^{u} - \sum\limits _{v\in SP_{i,t}^{u}} UW(v, t))}{Max_{t}^{u}}) $
+
 
 
 $$
