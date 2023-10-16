@@ -21,3 +21,5 @@ $$(1-\frac{Max_{t}^{u} - \sum\limits _{v\in SP_{i,t}^{u}} UW(v, t))}{Max_{t}^{u}
 $$
 f(a) = \frac{1}{2\pi i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
 $$
+
+
