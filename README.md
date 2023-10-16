@@ -10,9 +10,6 @@ To compute user factor, apply the equation below:
 
 
 
-One other work-around is to use jupyter notebooks and use the markdown mode in cells to render equations.
-
-Basic stuff seems to work perfectly, like centered equations
 
 
 
